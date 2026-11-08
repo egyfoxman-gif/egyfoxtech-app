@@ -1,0 +1,6 @@
+{
+  "name": "Egyfox Technology",
+  "description": "تطبيق قناة Egyfox Technology الرسمية لمشاهدة أحدث الفيديوهات التقنية وقوائم التشغيل وتشغيلها مباشرة داخل التطبيق واستقبال إشعارات الفيديوهات الجديدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
